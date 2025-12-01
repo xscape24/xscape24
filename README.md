@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Eben Nduwimana
 
-<!--
-**xscape24/xscape24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and emerging software engineer with a focus on **web development, simulations, UI design, and building tools that improve productivity and learning**.
 
-Here are some ideas to get you started:
+I love taking ideas from concept to working applications, and I'm constantly building new projects to sharpen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+- **ReManned** — Capstone project (React, Node.js, PostgreSQL)
+- **SimQueue** — Java simulation modeling supermarket checkout behavior
+- **VibeHQ** — Student productivity & habit-tracking web app
+- **Portfolio (ebenn.dev)** — My personal site showcasing projects & experience
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+- Java, JavaScript, HTML, CSS, SQL
+
+**Tools & Frameworks:**  
+- React, Node.js, Express  
+- Git/GitHub  
+- IntelliJ, VS Code  
+- GitHub Pages, Netlify  
+
+---
+
+## 📫 Connect With Me
+- **Portfolio:** https://ebenn.dev  
+- **GitHub:** https://github.com/xscape24  
+- **LinkedIn:** https://www.linkedin.com/in/eben-nduwimana/  
+- **Email:** ebenduwimana@gmail.com  
+
+---
+
+## 📘 What I'm Learning Next
+- Full-stack patterns (REST APIs, auth flows)  
+- Data structures & algorithms  
+- Advanced Java OOP patterns  
+- Improving UI design & responsiveness  
+
+---
+
+## 💡 About Me
+Driven, curious, and focused on building a strong career in software engineering.  
+I want my projects to actually *help people*, whether it’s improving productivity, visualizing complex systems, or creating smooth user experiences.
+
+Thank you for checking out my work!
+
